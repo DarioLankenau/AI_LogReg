@@ -1,4 +1,4 @@
-# Clasificación con Regresión Lineal
+# Clasificación con Regresión Logística
 
 En este repositorio se encuentran:
 
